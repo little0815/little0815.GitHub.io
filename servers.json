@@ -106,14 +106,14 @@
       "kind": 0
     },
     {
+      "name": "myserver v3",
+      "address": "https://little0815v3.onrender.com",
+      "kind": 0
+    },
+    {
       "name": "Lill q",
       "address": "https://anisette.lillq.me",
       "kind": 2
-    }
-    {
-      "name": "Little0815", 
-      "address": "https://little0815v3.onrender.com",
-      "kind": 0
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
